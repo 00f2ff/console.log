@@ -33,7 +33,7 @@ And finally, a reminder to stay environmentally conscious when logging for no go
 
 ### Usage
 
-Just include `console.log.js` in your application, and voilà, natural-looking logs that occasionally make you feel _just the right_ bit of shame for contributing to the environmental decline of our planet.
+Just include `console.log.js` in your application, and voilà, natural-looking logs that occasionally make you feel _just the right bit of shame_ for contributing to the environmental decline of our planet.
 
 
 ### Caveats
