@@ -4,7 +4,7 @@
 
 I came across Tim Holman's [`console.frog`](https://github.com/tholman/console-dot-frog) project a while back and realized I'd been depriving myself of a lot of great amphibious development practices. I began to think about why `console.frog` felt so right after so much time programming, and came to the realization that it's not just frogs I've been missing, but that nowadays coding is too far removed from nature as a whole.
 
-`console.frog` is to a lot message as breathing through ones skin is to a princess: now they're frogs. However, developers can still write boring, artificial logs, so `console.log` is intended to change that.
+`console.frog` is to a log message as breathing through one's skin is to a princess: now they're frogs. However, developers can still write boring, artificial logs, so `console.log` is intended to change that.
 
 In a nutshell, `console.log` overrides `console.log` to add more puns. It's written in ES6 with no dependencies, and its logging potential is best illustrated in Chrome (for both aesthetic and browser support reasons). 
 
